@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ze"|tr Ac
+tr Ac Ze
